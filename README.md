@@ -24,4 +24,9 @@ WorldoMeters: https://www.worldometers.info/coronavirus/
 
 COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data)
 
+The repository contains two subparts ::::
+
+1.Time Series Analysis For Recovery Cases Of COVID 
+
+
 
