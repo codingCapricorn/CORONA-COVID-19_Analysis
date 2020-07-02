@@ -13,7 +13,6 @@ URL :: https://github.com/CSSEGISandData/COVID-19
 Dataset is taken from John Hopkins University Github .... https://github.com/CSSEGISandData
 """
 
-# Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
 import numpy as np
 import seaborn as sns 
