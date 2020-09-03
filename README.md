@@ -26,7 +26,7 @@ COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospital
 
 #
 
-The repository contains following two m::::
+The repository contains following two mo::::
 
     -->> Time Series Analysis Of World-Wide COVID Recovery Cases
 
