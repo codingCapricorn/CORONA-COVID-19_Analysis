@@ -1,4 +1,4 @@
-# CORONA_Analysis
+# CORONAAnalysis
 
 ### COVID-19 Analysis Using Machine Learning
 
