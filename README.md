@@ -2,7 +2,7 @@
 
 ### COVID-19 Analysis Using Machine Learning
 
-#
+
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.The Analysis is done on the COVID-19 Outbreak to predict and demonstrate the effect of CORONA virus in various countries on various dates.The dataset is taken from Johns Hopkins University who has collected data from WHO and various international organizations,official governments,hospitals and research institutes.
 
