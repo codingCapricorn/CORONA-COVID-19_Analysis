@@ -30,8 +30,7 @@ COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospital
     -->> Time Series Analysis Of World-Wide COVID Recovery Cases
 
     -->> US State-wise COVID Analysis On Various Parameters
-#
-You can also check-out my blog at Medium about COVID-19 Analysis ::::
+#You can also check-out my blog at Medium about COVID-19 Analysis ::::
 
    -->> https://medium.com/@thecapricornuseinblick/covid-19-time-series-analysis-e6f3f2235e43
 #
