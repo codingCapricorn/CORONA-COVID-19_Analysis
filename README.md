@@ -8,7 +8,7 @@ Dataset ::: https://github.com/CSSEGISandData/COVID-19
 
 The Dataset is formation of following Aggregated data sources and more ::::
 
-World Health Organization (WHO): https://www.who.int/
+World Health Organization (WHO): https://www.who.int
 
 European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
