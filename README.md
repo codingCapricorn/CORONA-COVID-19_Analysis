@@ -22,7 +22,7 @@ WorldoMeters: https://www.worldometers.info/coronavirus/
 
 1Point3Arces: https://coronavirus.1point3acres.com/en
 
-COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data)
+COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data))
 #
 #
 #### The repository contains following two modules::::
